@@ -1,3 +1,1 @@
-# TeaHouse
-
-Welcome To Brand New Tea Store.
+# BikeDekho-Sample-UI-Design
