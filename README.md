@@ -1,1 +1,1 @@
-# BikeDekho-Sample-UI-Design
+# TeaHouse-Sample-UI-Design
